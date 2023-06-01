@@ -6,10 +6,9 @@ The code used to perform the analysis is Python Programming Language
 
 
 ========= Files in Main Project =========
-1. Code - 220518655_CSC8634_Cloud_computing.ipynb     --> The code with some explanation in the form of .ipynb to run it later.
-2. Code - PDF - 220518655_CSC8634_Cloud_computing.pdf --> The same code in .ipynb in .pdf format for ease of referring.
-3. Report - 220518655_CSC8634_Cloud_computing.pdf     --> The Details report of the Analysis
-4. Structured Abstract_Key Images - 220518655_CSC8634_structured_abstract --> The Structured Abstract with the Key images which give an outline to the main report.
+1. Code - Resit_Cloud_Computing.ipynb     --> The code with some explanation in the form of .ipynb to run it later.
+2. Report - 220554837_Resit_Report_Cloud_Computing.pdf     --> The Details report of the Analysis
+3. Structured Abstract_Key Images - Resit_Cloud_Abstract_Report --> The Structured Abstract with the Key images which give an outline to the main report.
 
 ========= Running the Code =========
 1. Download the three .csv files (raw data) using the below given sharepoint link. A proper Newcastle University account is required.
@@ -17,7 +16,7 @@ https://newcastle-my.sharepoint.com/personal/nmf47_newcastle_ac_uk/_layouts/15/o
 
 2. Move the downloaded .csv files into a particular folder and copy the location of the respective files.
 
-3. Open the "Code - 220518655_CSC8634_Cloud_computing.ipynb" file in jupyter Notebook and give the location of the .csv datasets in the python code cell 2. 
+3. Open the "Code - Resit_Cloud_Computing.ipynb" file in jupyter Notebook and give the location of the .csv datasets in the python code cell 2. 
    The code looks like below.
    Edit the location between the double quotes ("").
 
